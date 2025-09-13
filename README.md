@@ -1,2 +1,2 @@
-# kimyoonwoo-ai
+# kimyoonwoo
 my profile repository
