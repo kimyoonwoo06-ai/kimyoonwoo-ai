@@ -1,2 +1,1 @@
-# kimyoonwoo
-my profile repository
+# hi there
